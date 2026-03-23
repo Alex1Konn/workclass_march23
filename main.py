@@ -1,5 +1,5 @@
 import turtle
 
 turtle.shape("turtle")
-turtle forward(120)
-turtle. done()
+turtle.forward(120)
+turtle.done()
